@@ -1,0 +1,4 @@
+{
+  "en": { "history": { "imageExpired": "Image Expired", "app": { "downloadFailed": "Could not create the PDF." } } },
+  "ur": { "history": { "imageExpired": "تصویر دستیاب نہیں", "app": { "downloadFailed": "پی ڈی ایف نہیں بن سکی۔" } } }
+}

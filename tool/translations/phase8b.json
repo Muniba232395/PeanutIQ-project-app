@@ -1,0 +1,18 @@
+{
+  "en": { "common": { "serverErrors": {
+    "otpExpired": "The code has expired. Request a new one.",
+    "noActiveOtp": "No code is active for this email. Request a new one.",
+    "userNotFound": "No account was found for this email.",
+    "otpEmailFailed": "We couldn't send the code email. Please try again.",
+    "notAuthorized": "You are not allowed to do this.",
+    "maintenance": "PeanutIQ is under maintenance. Please try again soon."
+  } } },
+  "ur": { "common": { "serverErrors": {
+    "otpExpired": "کوڈ کی میعاد ختم ہو گئی۔ نیا کوڈ منگوائیں۔",
+    "noActiveOtp": "اس ای میل کے لیے کوئی فعال کوڈ نہیں۔ نیا کوڈ منگوائیں۔",
+    "userNotFound": "اس ای میل کا کوئی اکاؤنٹ نہیں ملا۔",
+    "otpEmailFailed": "کوڈ والی ای میل نہیں بھیجی جا سکی۔ دوبارہ کوشش کریں۔",
+    "notAuthorized": "آپ کو یہ کرنے کی اجازت نہیں ہے۔",
+    "maintenance": "PeanutIQ کی دیکھ بھال جاری ہے۔ تھوڑی دیر بعد کوشش کریں۔"
+  } } }
+}

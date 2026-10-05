@@ -1,0 +1,78 @@
+{
+  "en": {
+    "seed": {
+      "analyzingDesc": "Our AI is examining each seed in your photo.",
+      "step1": "Photo uploaded",
+      "step2": "Examining each seed...",
+      "step3": "Preparing your results",
+      "app": {
+        "totalDesc": "Seeds counted in the photo.",
+        "sizeUniformity": "Size Uniformity",
+        "aiNote": "AI estimate from your photo. For certified results, do a germination test."
+      }
+    },
+    "disease": {
+      "scanningDesc": "Our AI is checking your photo for diseases, pests and nutrient problems.",
+      "step1": "Photo uploaded",
+      "step2": "Checking for diseases, pests and deficiencies...",
+      "step3": "Preparing advice",
+      "app": {
+        "detectedTitle": "Detected Problem",
+        "healthyTitle": "Crop Looks Healthy",
+        "confidence": "{{pct}}% AI Confidence",
+        "affected": "{{pct}}% of visible foliage affected.",
+        "severity": { "0": "None", "1": "Early (Stage 1)", "2": "Moderate (Stage 2)", "3": "Severe (Stage 3)", "4": "Critical (Stage 4)" },
+        "risk": { "low": "LOW RISK", "medium": "MEDIUM RISK", "high": "HIGH RISK" },
+        "category": { "healthy": "Healthy plant", "disease": "Disease", "pest": "Pest", "nutrient": "Nutrient problem", "other": "Other problem" },
+        "nowTitle": "What to Do Now",
+        "symptomsTitle": "What the AI Sees",
+        "preventionTitle": "Prevention",
+        "aiNote": "AI assessment from your photo, not a confirmed diagnosis. Check with your local agriculture office before spraying."
+      }
+    },
+    "common": { "serverErrors": {
+      "notSeeds": "This photo doesn't show peanut seeds. Take a clear photo of the seeds on a plain surface.",
+      "noSeeds": "No seeds could be counted. Take a clearer, closer photo of the seeds.",
+      "notCrop": "This photo doesn't show a peanut plant or pest. Take a clear, close photo of the affected leaves, plant or insect.",
+      "tooLarge": "This photo is too large. Please try a smaller one."
+    } }
+  },
+  "ur": {
+    "seed": {
+      "analyzingDesc": "ہمارا AI آپ کی تصویر میں ہر بیج کا جائزہ لے رہا ہے۔",
+      "step1": "تصویر اپ لوڈ ہو گئی",
+      "step2": "ہر بیج کا جائزہ...",
+      "step3": "نتائج تیار ہو رہے ہیں",
+      "app": {
+        "totalDesc": "تصویر میں گنے گئے بیج۔",
+        "sizeUniformity": "سائز کی یکسانیت",
+        "aiNote": "یہ آپ کی تصویر سے AI کا اندازہ ہے۔ تصدیق شدہ نتائج کے لیے اگاؤ ٹیسٹ کریں۔"
+      }
+    },
+    "disease": {
+      "scanningDesc": "ہمارا AI آپ کی تصویر میں بیماری، کیڑے اور غذائی کمی تلاش کر رہا ہے۔",
+      "step1": "تصویر اپ لوڈ ہو گئی",
+      "step2": "بیماری، کیڑوں اور کمی کی جانچ...",
+      "step3": "مشورہ تیار ہو رہا ہے",
+      "app": {
+        "detectedTitle": "پایا گیا مسئلہ",
+        "healthyTitle": "فصل صحت مند لگتی ہے",
+        "confidence": "{{pct}}% AI اعتماد",
+        "affected": "نظر آنے والے پتوں کا {{pct}}% متاثر ہے۔",
+        "severity": { "0": "کوئی نہیں", "1": "ابتدائی (مرحلہ 1)", "2": "درمیانہ (مرحلہ 2)", "3": "شدید (مرحلہ 3)", "4": "انتہائی (مرحلہ 4)" },
+        "risk": { "low": "کم خطرہ", "medium": "درمیانہ خطرہ", "high": "زیادہ خطرہ" },
+        "category": { "healthy": "صحت مند پودا", "disease": "بیماری", "pest": "کیڑا", "nutrient": "غذائی کمی", "other": "دیگر مسئلہ" },
+        "nowTitle": "ابھی کیا کریں",
+        "symptomsTitle": "AI کیا دیکھ رہا ہے",
+        "preventionTitle": "بچاؤ",
+        "aiNote": "یہ آپ کی تصویر سے AI کا جائزہ ہے، تصدیق شدہ تشخیص نہیں۔ اسپرے سے پہلے مقامی محکمہ زراعت سے مشورہ کریں۔"
+      }
+    },
+    "common": { "serverErrors": {
+      "notSeeds": "اس تصویر میں مونگ پھلی کے بیج نظر نہیں آ رہے۔ بیجوں کو سادہ سطح پر رکھ کر واضح تصویر لیں۔",
+      "noSeeds": "کوئی بیج گنا نہیں جا سکا۔ بیجوں کی زیادہ واضح اور قریب سے تصویر لیں۔",
+      "notCrop": "اس تصویر میں مونگ پھلی کا پودا یا کیڑا نظر نہیں آ رہا۔ متاثرہ پتوں، پودے یا کیڑے کی قریب سے واضح تصویر لیں۔",
+      "tooLarge": "یہ تصویر بہت بڑی ہے۔ چھوٹی تصویر آزمائیں۔"
+    } }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "en": { "profile": { "app": {
+    "timezoneTitle": "Time Zone",
+    "timezoneDesc": "Sets how dates and times are displayed to you on your dashboard.",
+    "saved": "Profile updated",
+    "tz": { "utc": "UTC (Default)", "karachi": "Pakistan (PKT)", "riyadh": "Arabia (AST)", "london": "Greenwich (GMT)", "newYork": "Eastern (EST)" }
+  } } },
+  "ur": { "profile": { "app": {
+    "timezoneTitle": "ٹائم زون",
+    "timezoneDesc": "آپ کے ڈیش بورڈ پر تاریخیں اور اوقات کیسے دکھائے جائیں۔",
+    "saved": "پروفائل اپ ڈیٹ ہو گئی",
+    "tz": { "utc": "UTC (ڈیفالٹ)", "karachi": "پاکستان (PKT)", "riyadh": "عرب (AST)", "london": "گرینچ (GMT)", "newYork": "مشرقی (EST)" }
+  } } }
+}

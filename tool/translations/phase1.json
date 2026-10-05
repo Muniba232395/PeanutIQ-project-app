@@ -1,0 +1,66 @@
+{
+  "en": {
+    "auth": {
+      "mockup": {
+        "welcome": "Welcome Back!",
+        "loginDesc": "Login to continue your journey"
+      },
+      "login": { "sendOtp": "Send OTP" },
+      "signup": { "sendOtp": "Send OTP" },
+      "app": {
+        "tagline": "Growing a better tomorrow",
+        "taglineDesc": "Smart solutions for modern farming. Manage, Monitor and Maximize your yield with technology.",
+        "featureSmart": "Smart Farming",
+        "featureHealth": "Crop Health",
+        "featureYield": "Better Yield",
+        "emailPlaceholder": "Email address",
+        "emailInvalid": "Please enter a valid email address",
+        "farmersOnly": "This app is for farmers. Admins and researchers, please use the PeanutIQ website.",
+        "saveFailed": "Failed to update profile"
+      }
+    },
+    "common": {
+      "networkError": "Check your internet connection and try again.",
+      "serverError": "Something went wrong. Please try again.",
+      "retry": "Retry",
+      "logout": "Log out"
+    },
+    "maintenance": {
+      "title": "We'll be right back!",
+      "desc": "PeanutIQ is currently undergoing scheduled maintenance to improve your experience.",
+      "expected": "Expected Completion",
+      "check": "Check Status",
+      "checking": "Checking...",
+      "signOut": "Sign out and return to login"
+    }
+  },
+  "ur": {
+    "auth": {
+      "app": {
+        "tagline": "ایک بہتر کل کی شروعات",
+        "taglineDesc": "جدید زراعت کے لیے سمارٹ حل۔ ٹیکنالوجی کے ذریعے اپنی پیداوار کا انتظام، نگرانی اور اضافہ کریں۔",
+        "featureSmart": "سمارٹ زراعت",
+        "featureHealth": "فصل کی صحت",
+        "featureYield": "بہتر پیداوار",
+        "emailPlaceholder": "ای میل ایڈریس",
+        "emailInvalid": "براہ کرم درست ای میل ایڈریس درج کریں",
+        "farmersOnly": "یہ ایپ کسانوں کے لیے ہے۔ ایڈمنز اور محققین براہ کرم PeanutIQ ویب سائٹ استعمال کریں۔",
+        "saveFailed": "پروفائل اپ ڈیٹ نہیں ہو سکی"
+      }
+    },
+    "common": {
+      "networkError": "اپنا انٹرنیٹ کنکشن چیک کریں اور دوبارہ کوشش کریں۔",
+      "serverError": "کچھ غلط ہو گیا۔ براہ کرم دوبارہ کوشش کریں۔",
+      "retry": "دوبارہ کوشش کریں",
+      "logout": "لاگ آؤٹ"
+    },
+    "maintenance": {
+      "title": "ہم جلد واپس آئیں گے!",
+      "desc": "آپ کے تجربے کو بہتر بنانے کے لیے PeanutIQ پر اس وقت طے شدہ دیکھ بھال جاری ہے۔",
+      "expected": "متوقع تکمیل",
+      "check": "حالت چیک کریں",
+      "checking": "چیک ہو رہا ہے...",
+      "signOut": "سائن آؤٹ کریں اور لاگ ان پر واپس جائیں"
+    }
+  }
+}

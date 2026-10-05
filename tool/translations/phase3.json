@@ -1,0 +1,14 @@
+{
+  "en": { "scan": { "app": {
+    "uploadFailed": "Couldn't save this scan to your history.",
+    "cameraUnavailable": "Could not open the camera or gallery.",
+    "generatedOn": "Generated on",
+    "shareFailed": "Could not create the report."
+  } } },
+  "ur": { "scan": { "app": {
+    "uploadFailed": "یہ اسکین آپ کی ہسٹری میں محفوظ نہیں ہو سکا۔",
+    "cameraUnavailable": "کیمرہ یا گیلری نہیں کھل سکی۔",
+    "generatedOn": "تیار کردہ",
+    "shareFailed": "رپورٹ نہیں بن سکی۔"
+  } } }
+}

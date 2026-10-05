@@ -1,0 +1,24 @@
+{
+  "en": { "assistant": {
+    "liveChat": "LIVE CHAT", "recordVoice": "Record Voice", "listening": "Listening...",
+    "liveListening": "LIVE LISTENING", "reviewReady": "Recording Ready", "langButton": "EN",
+    "placeholder": "Type your message...",
+    "greeting": "Welcome {{name}}! I am your smart agricultural assistant. How can I help you today?",
+    "defaultName": "Farmer", "analyzingImage": "Analyzing image...",
+    "imageResult": "I can see signs of nitrogen deficiency in the crop. You should apply Urea fertilizer immediately.",
+    "textReply": "I am checking your field data. Based on current crop conditions, it is optimal to...",
+    "voiceSent": "🎤 Voice message sent", "close": "Close",
+    "cameraError": "Unable to access camera.", "micDenied": "Microphone permission is needed to record."
+  } },
+  "ur": { "assistant": {
+    "liveChat": "لائیو گفتگو", "recordVoice": "آواز ریکارڈ کریں", "listening": "سن رہا ہوں...",
+    "liveListening": "لائیو سن رہا ہے", "reviewReady": "ریکارڈنگ تیار ہے", "langButton": "اردو",
+    "placeholder": "یہاں لکھیں...",
+    "greeting": "خوش آمدید {{name}}! میں آپ کا سمارٹ زرعی اسسٹنٹ ہوں۔ آج میں آپ کی کیا مدد کر سکتا ہوں؟",
+    "defaultName": "کسان", "analyzingImage": "تصویر کا تجزیہ کر رہا ہوں...",
+    "imageResult": "میں دیکھ سکتا ہوں کہ فصل میں نائٹروجن کی کمی کے آثار ہیں۔ آپ کو فوراً یوریا کھاد کا استعمال کرنا چاہیے۔",
+    "textReply": "میں آپ کے کھیت کا ڈیٹا چیک کر رہا ہوں۔ فصل کی موجودہ حالت کے مطابق، یہ بہترین ہے...",
+    "voiceSent": "🎤 آواز کا پیغام بھیجا گیا", "close": "بند کریں",
+    "cameraError": "کیمرہ کھولنے میں مسئلہ درپیش ہے", "micDenied": "ریکارڈنگ کے لیے مائیکروفون کی اجازت درکار ہے۔"
+  } }
+}

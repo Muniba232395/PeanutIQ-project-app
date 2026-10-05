@@ -1,0 +1,68 @@
+{
+  "en": {
+    "common": {
+      "timeAgo": {
+        "justNow": "Just now",
+        "minute": "{{count}} minute ago", "minutes": "{{count}} minutes ago",
+        "hour": "{{count}} hour ago", "hours": "{{count}} hours ago",
+        "day": "{{count}} day ago", "days": "{{count}} days ago"
+      }
+    },
+    "dashboard": {
+      "app": {
+        "tipTitle": "Daily AI Tip",
+        "tipFallback": "According to the weather forecast, rain is expected today. Ensure proper field drainage.",
+        "defaultFirstName": "Farmer",
+        "defaultName": "Returning Farmer",
+        "upcomingTitle": "Upcoming Actions",
+        "aiRecommended": "AI Recommended",
+        "noActions": "No upcoming actions.",
+        "lifecycleTitle": "Crop Lifecycle Stage",
+        "stages": { "sowing": "Sowing", "flowering": "Flowering", "pegging": "Pegging", "podFill": "Pod Fill", "harvesting": "Harvesting" },
+        "noAlerts": "No active alerts",
+        "noAlertsDesc": "Your farm conditions are optimal.",
+        "toggleFailed": "Could not update the task",
+        "loadFailed": "Could not load this section"
+      },
+      "activities": { "action": "Action", "details": "Details", "time": "Time", "noActivity": "No recent activity." }
+    },
+    "layout": {
+      "header": { "noNotifications": "No new notifications" },
+      "tabs": { "home": "Home", "seed": "Seed", "disease": "Disease", "knowledge": "Knowledge", "more": "More" },
+      "more": { "language": "Language" }
+    }
+  },
+  "ur": {
+    "common": {
+      "timeAgo": {
+        "justNow": "ابھی ابھی",
+        "minute": "{{count}} منٹ پہلے", "minutes": "{{count}} منٹ پہلے",
+        "hour": "{{count}} گھنٹہ پہلے", "hours": "{{count}} گھنٹے پہلے",
+        "day": "{{count}} دن پہلے", "days": "{{count}} دن پہلے"
+      }
+    },
+    "dashboard": {
+      "app": {
+        "tipTitle": "روزانہ اے آئی ٹپ",
+        "tipFallback": "موسم کی پیشگوئی کے مطابق آج بارش کا امکان ہے۔ فصل کی نکاسی کا خیال رکھیں۔",
+        "defaultFirstName": "Kisan Bhai",
+        "defaultName": "کسان بھائی",
+        "upcomingTitle": "آنے والے اقدامات",
+        "aiRecommended": "اے آئی تجویز کردہ",
+        "noActions": "کوئی آنے والے اقدامات نہیں ہیں۔",
+        "lifecycleTitle": "فصل کی نشوونما کا مرحلہ",
+        "stages": { "sowing": "بوائی", "flowering": "پھول آنا", "pegging": "پھلیاں بننا", "podFill": "پھلی بھرنا", "harvesting": "کٹائی" },
+        "noAlerts": "کوئی فعال انتباہ نہیں",
+        "noAlertsDesc": "آپ کے کھیت کے حالات بہترین ہیں۔",
+        "toggleFailed": "کام اپ ڈیٹ نہیں ہو سکا",
+        "loadFailed": "یہ حصہ لوڈ نہیں ہو سکا"
+      },
+      "activities": { "action": "عمل", "details": "تفصیلات", "time": "وقت", "noActivity": "کوئی حالیہ سرگرمی نہیں۔" }
+    },
+    "layout": {
+      "header": { "noNotifications": "کوئی نئی اطلاع نہیں" },
+      "tabs": { "home": "ہوم", "seed": "بیج", "disease": "بیماری", "knowledge": "معلومات", "more": "مزید" },
+      "more": { "language": "زبان" }
+    }
+  }
+}

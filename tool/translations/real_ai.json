@@ -1,0 +1,28 @@
+{
+  "en": {
+    "assistant": { "thinking": "Thinking..." },
+    "common": { "serverErrors": {
+      "aiBusy": "The assistant is busy right now. Please try again in a moment.",
+      "aiLimit": "You've reached today's limit for AI questions. Please try again tomorrow."
+    } },
+    "dashboard": { "app": {
+      "weatherUnavailable": "Weather is unavailable right now.",
+      "weather": { "partlyCloudy": "Partly Cloudy", "cloudy": "Cloudy", "fog": "Foggy", "drizzle": "Drizzle",
+                   "thunderstorm": "Thunderstorm", "snow": "Snow" },
+      "weekdays": { "mon": "Mon", "tue": "Tue", "wed": "Wed", "thu": "Thu", "fri": "Fri", "sat": "Sat", "sun": "Sun" }
+    } }
+  },
+  "ur": {
+    "assistant": { "thinking": "سوچ رہا ہوں..." },
+    "common": { "serverErrors": {
+      "aiBusy": "اسسٹنٹ اس وقت مصروف ہے۔ تھوڑی دیر بعد دوبارہ کوشش کریں۔",
+      "aiLimit": "آج کے لیے AI سوالات کی حد پوری ہو گئی ہے۔ کل دوبارہ کوشش کریں۔"
+    } },
+    "dashboard": { "app": {
+      "weatherUnavailable": "موسم کی معلومات ابھی دستیاب نہیں۔",
+      "weather": { "partlyCloudy": "جزوی ابر آلود", "cloudy": "ابر آلود", "fog": "دھند", "drizzle": "ہلکی بوندا باندی",
+                   "thunderstorm": "آندھی اور گرج چمک", "snow": "برف باری" },
+      "weekdays": { "mon": "پیر", "tue": "منگل", "wed": "بدھ", "thu": "جمعرات", "fri": "جمعہ", "sat": "ہفتہ", "sun": "اتوار" }
+    } }
+  }
+}
